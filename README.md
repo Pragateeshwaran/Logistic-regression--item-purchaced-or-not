@@ -34,7 +34,7 @@ Once you have Python installed, you can install the necessary libraries by runni
 
 Copy code
 
-                      pip install pandas numpy seaborn scikit-learn
+    pip install pandas numpy seaborn scikit-learn
                       
                       
 Usage
